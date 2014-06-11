@@ -1,0 +1,6 @@
+name: WorldGriefRegen
+main: me.synergy.worldgriefregen.WorldGriefRegen
+version: 0.1
+description: >
+             Save a snapshot of your world which will regen upon command.
+commands:

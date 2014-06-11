@@ -12,7 +12,7 @@ public class WorldGriefRegen extends JavaPlugin
 	
 	public void onEnable()
 	{
-		
+	//FUTURE: autoregen map when plugin loads.	
 	}
 	
 	public void onDisable()
